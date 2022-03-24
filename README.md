@@ -8,3 +8,7 @@ Eklenecek şeyler:
 - Lineer denklem çözücüler. Sabit katsayılı lineer denklemleri çözen fonksiyonlar.
 - Dif. denklem çözücüler. ODE'leri nümerik analiz ile çözen fonksiyonlar.
 - Temel kontrol komutları (isstable, obsv, ctrb vs.)
+
+
+##Deneme
+Bu başlık terminalden eklendi.
