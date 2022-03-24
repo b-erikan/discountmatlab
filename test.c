@@ -1,10 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <curses.h>
 
 void main(){
+	char ch;
     while(1){
-        printf(">> ");
-        getch();
+        printf(">> (Hit q to quit)");
+        ch=getc(stdin);
+	if(ch=='q') break;
         printf("\n");
     }
 
